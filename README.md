@@ -6,5 +6,4 @@
 
 Authors
 ---------------------------------------------
-Jordan Ayertey
-Nsikak Solomon
+Jordan Ayertey and Nsikak Solomon
